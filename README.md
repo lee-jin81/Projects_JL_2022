@@ -9,7 +9,7 @@ the train [schedules](https://new.mta.info/schedules).
 
 ## Tools
 * I will be using SQL to download and store the data in the database. 
-* Data will be analyzed with Pandas and visualized with Seaborn and Matplotlib.
+* Data will be analyzed with Pandas and visualized with Matplotlib.
 
 
 
