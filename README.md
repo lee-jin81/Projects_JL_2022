@@ -13,8 +13,8 @@ A Turnstile data set of 3 months long will be obtained from the [MTA website](ht
 the train [schedules](https://new.mta.info/schedules).
 
 ## Tools
-* I will be using SQL to download and store the data in the database. 
-* Data will be analyzed with Pandas and visualized with Matplotlib.
+* SQL: to download and store the data in the database. 
+* Pandas and Matplotlib: Data visualization
 
 
 
