@@ -1,7 +1,7 @@
 # How can we recommend a better train schedule based on the traffic at the stations?
 
 ## Links
-[Code](https://github.com/lee-jin81/metis_project_1_EDA/blob/main/Project1_jing_lee_FINAL_version.ipynb)<br>
+[Code](https://github.com/lee-jin81/metis_project_1_EDA/blob/main/eda_train_FINAL.ipynb)<br>
 [Slides](https://github.com/lee-jin81/metis_project_1_EDA/blob/main/Project1_jinglee_slides.pdf)<br>
 [Writeup](https://github.com/lee-jin81/metis_project_1_EDA/blob/main/Project_1_writeup_JingLee.pdf)<br>
 
