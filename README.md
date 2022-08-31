@@ -2,7 +2,7 @@
 
 ## Links
 [Code](https://github.com/lee-jin81/metis_project_1_EDA/blob/main/eda_train_FINAL.ipynb)<br>
-[Slides](https://github.com/lee-jin81/metis_project_1_EDA/blob/main/Project1_jinglee_slides.pdf)<br>
+[Slides](https://github.com/lee-jin81/metis_project_1_EDA/blob/main/slides_eda.pdf)<br>
 [Writeup](https://github.com/lee-jin81/metis_project_1_EDA/blob/main/Project_1_writeup_JingLee.pdf)<br>
 [MVP](https://github.com/lee-jin81/metis_project_1_EDA/blob/main/mvp_eda.pdf)<br>
 [Proposal](https://github.com/lee-jin81/metis_project_1_EDA/blob/main/proposal_eda.pdf)
