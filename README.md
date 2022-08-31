@@ -26,8 +26,10 @@ Exploratory data analysis was performed on the data sets:
 * For the train schedule, entries in the timetable (.pdf) file were uploaded into excel, then time was converted to 24-hour format and then uploaded to pandas.
 
 ## Tools
-* SQL: to download and store the data in the database. 
+* SQLite: to download and store the data in the database. 
+* SQLAlchemy: to access the SQLite database and import the data into Jupyter notebook
 * Pandas and Matplotlib: Data visualization
+* Python: to use Pandas and Matplotlib libraries
 
 
 
